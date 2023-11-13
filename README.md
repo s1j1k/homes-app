@@ -2,7 +2,7 @@
 This repository contains the output from the Angular first app tutorial [here](https://angular.dev/tutorials/first-app).
 
 This covers the following topics:
-1. Downloading default app code and using `npm install` to install dependencies.
+1. Using `npm install` to install dependencies.
 2. Using `ng serve` to build and serve Angular app locally for testing.
 3. Using `ng generate home` to generate `home` component.
 4. Editing template HTML code and adding `styleUrls` to add stylesheets in a separate file.
