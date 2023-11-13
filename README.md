@@ -47,8 +47,12 @@ npm install -g json-server
 json-server --watch db.json
 ```
 
-Now you can run the Angular app in a separate terminal.
-
+In a separate terminal, build and serve the Angular app.
+1. Install the dependencies.
+```
+npm install
+```
+2. Build and serve the app.
 ```
 ng serve
 ```
