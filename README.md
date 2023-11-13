@@ -21,12 +21,10 @@ This covers the following topics:
 ## Homes app 
 This app is a demo version of a real estate app displaying multiple properties in different cities.
 The home page displays the different homes with an option to filter by city.
-<img width="1287" alt="Home page showing list of homes" src="https://github.com/s1j1k/first-app/assets/89644676/a718de54-9017-43bf-8f36-242ba602621f">
-
+<img width="1287" alt="Home page showing list of homes" src="https://github.com/s1j1k/homes-app/assets/89644676/73489ca8-df14-43a9-aeff-1d52a33d6176">
 
 By clicking a the chosen property, users can view the details page where you can apply to live at the property.
-<img width="1288" alt="Details page for one of the homes" src="https://github.com/s1j1k/first-app/assets/89644676/727d5499-9be0-42eb-9c97-8cf4c38fb93b">
-
+<img width="1288" alt="Details page for one of the homes" src="https://github.com/s1j1k/homes-app/assets/89644676/a79af610-b451-4615-93ef-0808b588a626">
 
 ### Running the app locally
 Before you start you need to install the correct version of `node.js` required by Angular.
